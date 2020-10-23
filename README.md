@@ -121,7 +121,7 @@ In this method it is used to get type of user’s pokemon. In the method, for me
 
 # Detailed Description of Solution
 
-![FLOWCHART](https://github.com/zanafdzl/pokemons/blob/master/media/flowchart.)!
+![FLOWCHART](https://github.com/zanafdzl/pokemons/blob/master/media/flowchart.png)!
 
 
 # Sample Snapshot
@@ -138,7 +138,7 @@ In this method it is used to get type of user’s pokemon. In the method, for me
 
 ![S6](https://github.com/zanafdzl/pokemons/blob/master/media/p6.png)
 
-![S7](hhttps://github.com/zanafdzl/pokemons/blob/master/media/p7.jpg)
+![S7](https://github.com/zanafdzl/pokemons/blob/master/media/p7.jpg)
 
 ![S8](https://github.com/zanafdzl/pokemons/blob/master/media/p8.jpg)
 
