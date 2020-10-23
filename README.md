@@ -1,4 +1,4 @@
-![LOGO](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/LOGO%20UM.png)
+![LOGO](https://github.com/zanafdzl/pokemons/blob/master/media/LOGO%20UM.png)
 
 >>
 ```
@@ -121,7 +121,7 @@ In this method it is used to get type of user’s pokemon. In the method, for me
 
 # Detailed Description of Solution
 
-![FLOWCHART](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/flowchart.png)!
+![FLOWCHART](https://github.com/zanafdzl/pokemons/blob/master/media/flowchart.)!
 
 
 # Sample Snapshot
