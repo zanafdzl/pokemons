@@ -126,25 +126,25 @@ In this method it is used to get type of user’s pokemon. In the method, for me
 
 # Sample Snapshot
 
-![S1](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p1.png)
+![S1](https://github.com/zanafdzl/pokemons/blob/master/media/p1.png)
 
-![S2](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p2.png)
+![S2](https://github.com/zanafdzl/pokemons/blob/master/media/p2.png)
 
-![S3](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p3.png)
+![S3](https://github.com/zanafdzl/pokemons/blob/master/media/p3.png)
 
-![S4](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p4.png)
+![S4](https://github.com/zanafdzl/pokemons/blob/master/media/p4.png)
 
-![S5](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p5.png)
+![S5](https://github.com/zanafdzl/pokemons/blob/master/media/p5.png)
 
-![S6](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p6.png)
+![S6](https://github.com/zanafdzl/pokemons/blob/master/media/p6.png)
 
-![S7](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p7.jpg)
+![S7](hhttps://github.com/zanafdzl/pokemons/blob/master/media/p7.jpg)
 
-![S8](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p8.jpg)
+![S8](https://github.com/zanafdzl/pokemons/blob/master/media/p8.jpg)
 
-![S9](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p9.png)
+![S9](https://github.com/zanafdzl/pokemons/blob/master/media/p9.png)
 
-![S10](https://github.com/WIX1002-1-2018/assignment-abc-group/blob/master/media/p10.jpg)
+![S10](https://github.com/zanafdzl/pokemons/blob/master/media/p10.jpg)
 
 
 # The Project Timeline
